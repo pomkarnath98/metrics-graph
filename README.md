@@ -10,7 +10,7 @@ Run `cd metrics-graph\backend`
 
 Step 2:
 
-Install npm packages with `npm install`
+Intialize npm package with `npm init` and then run `npm install`
 
 Step 4:
 
