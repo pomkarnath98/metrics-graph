@@ -6,7 +6,7 @@ Clone the repository locally and then follow the below steps:
 
 Step 1:
 
-`cd metrics-graph\backend`
+Run `cd metrics-graph\backend`
 
 Step 2:
 
