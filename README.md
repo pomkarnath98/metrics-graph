@@ -1,6 +1,9 @@
 # metrics-graph
 
 ## Steps to run the application
+
+Clone the repository locally and then follow the below steps:
+
 Step 1:
 
 `cd metrics-graph\backend`
