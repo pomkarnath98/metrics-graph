@@ -1,0 +1,59 @@
+.dimensions {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.dimensions > div {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    text-align: left;
+    justify-content: space-between;
+    background-color: rgb(218, 196, 238);
+    padding: 10px;
+    margin-right: 30px;
+    border-radius: 10px;
+}
+
+.dimensions h2 {
+    margin: 5px 0px;
+}
+
+.dimensions img {
+    width: 40px;
+    margin-left: 20px;
+}
+
+.graph > div {
+    position: relative;
+}
+
+.graph button {
+    position: absolute;
+    top: 5px;
+    border: none;
+    background: rgb(218, 196, 238);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.graph > div > :nth-child(2) {
+    right: 80px;
+}
+
+.graph > div > :last-child {
+    right: 10px;
+}
+
+.graph canvas {
+    border: 1px solid;
+}
+
+.graph h3 {
+    margin-top: 100px;
+}
+
+button {
+    cursor: pointer;
+}
