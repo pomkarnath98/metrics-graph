@@ -10,7 +10,7 @@ Run `cd metrics-graph\backend`
 
 Step 2:
 
-Intialize npm package with `npm init` and then run `npm install`
+Install npm packages with `npm install`
 
 Step 4:
 
@@ -22,7 +22,7 @@ Open a new terminal and then move to the frontend folder `cd metrics-graph\front
 
 Step 4:
 
-Install npm packages with `npm install`
+Repeat step 2
 
 Step 5:
 
